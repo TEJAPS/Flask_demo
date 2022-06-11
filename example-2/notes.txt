@@ -1,0 +1,3 @@
+https://codeloop.org/flask-crud-application-with-sqlalchemy/
+
+https://www.youtube.com/watch?v=XTpLbBJTOM4
